@@ -1,11 +1,9 @@
-# KDE Light and Dark Wallpaper
+# KDE wallpaper theme with light and dark variants
 
 A small Tkinter application for creating a KDE wallpaper package from two images:
 
-- a light-theme image
-- a dark-theme image
-
-The generated package contains the requested image sizes and can be selected from KDE's wallpaper settings.
+- a light theme image
+- a dark theme image
 
 ## Requirements
 
